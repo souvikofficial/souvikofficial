@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
-<h3 align="center">I am Souvik Ghosh, currently pursuing my BS Data Science from the well-known INDIAN INSTITIUTE OF TECHNOLOGY MADRAS and also Bsc Computer Science from Acharaya Jogodish Chandra Bose College. I got a great opportunity to learn from workshop, I got a great opportunity to meet with the CEO of Callchimp, Mr. Anubhab Singh in the TenserFLow Event. Looking towards my technical skills, I learnt Python programming language and would like to mark my self as an intermediate. Along with this I have a good knowledge in Ms Excel ,Ms Power BI ,data-cleaning. Also I am a good problem solver, team player, self motivated and have good communication skills; love to explore new things and patterns.</h3>
+<h3 align="center">Hi, I'm Souvik Ghosh, a Data Science and Computer Science student passionate about data-driven solutions. I have hands-on experience with Python, the MERN stack, Power BI, Pandas for data cleaning, and I’m currently building skills in machine learning to develop predictive models and uncover insights from data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="souvikofficial" /> </p>
 
