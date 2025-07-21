@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">Hi, I'm Souvik Ghosh, a Data Science and Computer Science student passionate about data-driven solutions. I have hands-on experience with Python, the MERN stack, Power BI, Pandas for data cleaning, and I’m currently building skills in machine learning to develop predictive models and uncover insights from data.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="souvikofficial" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=souvikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="souvikofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvikofficial" alt="souvikofficial" /></a> </p>
 
