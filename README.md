@@ -30,7 +30,7 @@
 - 🎓 &nbsp; **Student at:** Data Science & Computer Science  
 - 🌱 &nbsp; **Learning:** Deep Learning, Cloud, Microservices  
 - 🤝 &nbsp; **Collaborate:** Let's build cool stuff!  
-- 📝 &nbsp; **Portfolio:** _Add your portfolio link here_
+- 📝 &nbsp; **Portfolio:** Coming Soon
 
 ---
 
