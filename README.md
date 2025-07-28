@@ -37,7 +37,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,js,react,nodejs,express,mongodb,html,css,figma,git,linux,azure" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,js,python,react,nodejs,express,mongodb,html,css,figma,git,linux,azure" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Tools-Power%20BI-blue?logo=powerbi&style=flat-square"/>
