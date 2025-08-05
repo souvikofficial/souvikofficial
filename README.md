@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Souvik Ghosh 👋</h1>
-<h3 align="center">🚀 Data Science & Computer Science Enthusiast | MERN Stack Dev | Pythonista</h3>
+<h3 align="center">🚀 Data Science & Computer Science Enthusiast | MERN Stack Dev | Python</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=souvikofficial&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
